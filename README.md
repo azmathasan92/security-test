@@ -1,2 +1,2 @@
 # security-test
-Tesing Git Gurardian
+A repo to trigger a mock security breach on GitGuardian
